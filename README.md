@@ -11,9 +11,6 @@ What things you need to install the software and how to install them
 Gmail OAuth Token: https://developers.google.com/gmail/api/quickstart/python
 Python 3 (Reading of email): https://www.python.org/downloads/
 Twilio (Sending of Whatsapp Messages): https://www.twilio.com/console
-
-pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
-pip install twilio
 ```
 
 ### Installing
