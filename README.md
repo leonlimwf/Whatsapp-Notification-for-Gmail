@@ -46,16 +46,18 @@ python run.py
 ```
 No New Email Found
 
-20 Feb 2021 17:25:51 +0800
+Sun, 21 Feb 2021 12:23:34 +0
 ✉️ test <test@gmail.com>
-	➜ is that you Leo>
+	➜ Is that you Leo?
 
 No New Email Found
 
-20 Feb 2021 17:45:51 +0800
+Sun, 21 Feb 2021 12:41:26 +0
 ✉️ test <test@gmail.com>
-	➜ hey i am gonna...
+	➜ Testing mail
 ```
+
+![Result](https://github.com/leonlimwf/Whatsapp-Notification-for-Gmail/testmail.PNG)
 
 ### Built With
 
