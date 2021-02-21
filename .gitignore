@@ -10,6 +10,7 @@ test.py
 run.py
 mail.txt
 ID.txt
+production/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
