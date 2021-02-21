@@ -57,7 +57,7 @@ Sun, 21 Feb 2021 12:41:26 +0
 	➜ Testing mail
 ```
 
-![Result](https://github.com/leonlimwf/Whatsapp-Notification-for-Gmail/testmail.PNG)
+![Result](testmail.PNG)
 
 ### Built With
 
