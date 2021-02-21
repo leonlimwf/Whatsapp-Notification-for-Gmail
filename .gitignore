@@ -7,7 +7,6 @@ myconfig.py
 token.pickle
 credentials.json
 test.py
-run.py
 mail.txt
 ID.txt
 production/
